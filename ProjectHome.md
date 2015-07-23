@@ -1,0 +1,1 @@
+JavaFX 2.0, Spring, Hibernate and Maven combined to provide an example of client-server, enterprise style application.
